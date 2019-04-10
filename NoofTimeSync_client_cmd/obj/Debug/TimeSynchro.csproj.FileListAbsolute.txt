@@ -1,0 +1,10 @@
+C:\Users\util\source\repos\TimeSynchro\TimeSynchro\obj\Debug\TimeSynchro.csproj.CoreCompileInputs.cache
+C:\Users\util\source\repos\TimeSynchro\TimeSynchro\bin\Debug\TimeSynchro.exe.config
+C:\Users\util\source\repos\TimeSynchro\TimeSynchro\bin\Debug\TimeSynchro.exe
+C:\Users\util\source\repos\TimeSynchro\TimeSynchro\bin\Debug\TimeSynchro.pdb
+C:\Users\util\source\repos\TimeSynchro\TimeSynchro\bin\Debug\Newtonsoft.Json.dll
+C:\Users\util\source\repos\TimeSynchro\TimeSynchro\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\util\source\repos\TimeSynchro\TimeSynchro\bin\Debug\Newtonsoft.Json.xml
+C:\Users\util\source\repos\TimeSynchro\TimeSynchro\obj\Debug\TimeSynchro.csproj.CopyComplete
+C:\Users\util\source\repos\TimeSynchro\TimeSynchro\obj\Debug\TimeSynchro.exe
+C:\Users\util\source\repos\TimeSynchro\TimeSynchro\obj\Debug\TimeSynchro.pdb
