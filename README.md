@@ -1,5 +1,5 @@
 # NoofTimeSync
-Firewall proof time synchronization 
+Firewall proof time synchronization solution
 
 Command Program to synchronize time behind a firewall that blocks NTP
 
