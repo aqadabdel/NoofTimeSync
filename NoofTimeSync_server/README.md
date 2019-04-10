@@ -1,2 +1,2 @@
 # NoofTimeSync_srv
-Api de service de temps
+JSON Time Server for NoofTimeSync client command, service and winform   
